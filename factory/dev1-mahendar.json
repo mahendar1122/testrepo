@@ -1,0 +1,9 @@
+{
+	"name": "dev1-mahendar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "374b8f11-c3eb-4529-bd53-4aaed4a9d69b",
+		"tenantId": "18b7b05a-cd73-43e0-a2a6-ffd8add5c762"
+	}
+}
