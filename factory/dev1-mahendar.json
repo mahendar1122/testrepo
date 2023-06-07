@@ -5,6 +5,10 @@
 			"test1": {
 				"type": "string",
 				"value": "xxx"
+			},
+			"dev": {
+				"type": "string",
+				"value": "dev"
 			}
 		},
 		"globalConfigurations": {
