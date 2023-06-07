@@ -9,6 +9,10 @@
 			"dev": {
 				"type": "string",
 				"value": "dev"
+			},
+			"qa": {
+				"type": "string",
+				"value": "qa"
 			}
 		},
 		"globalConfigurations": {
