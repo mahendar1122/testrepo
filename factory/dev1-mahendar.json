@@ -1,5 +1,10 @@
 {
 	"name": "dev1-mahendar",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "false"
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
