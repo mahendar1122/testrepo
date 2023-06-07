@@ -1,6 +1,12 @@
 {
 	"name": "dev1-mahendar",
 	"properties": {
+		"globalParameters": {
+			"test1": {
+				"type": "string",
+				"value": "xxx"
+			}
+		},
 		"globalConfigurations": {
 			"PipelineBillingEnabled": "false"
 		}
