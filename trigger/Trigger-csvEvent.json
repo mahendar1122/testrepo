@@ -14,7 +14,8 @@
 		],
 		"type": "BlobEventsTrigger",
 		"typeProperties": {
-			"blobPathBeginsWith": "/input/blobs/*.csv",
+			"blobPathBeginsWith": "/input/blobs/2023/*.csv",
+			"blobPathEndsWith": "*.csv",
 			"ignoreEmptyBlobs": true,
 			"scope": "/subscriptions/d332ed7b-9a39-4a73-bdca-051d215b80ab/resourceGroups/rg-mahendar/providers/Microsoft.Storage/storageAccounts/devstoragemahendar",
 			"events": [
