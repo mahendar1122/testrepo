@@ -1,0 +1,19 @@
+{
+	"name": "Orc1Cust",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage3",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Orc",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "output"
+			},
+			"enablePhysicalSchema": true
+		},
+		"schema": []
+	}
+}
